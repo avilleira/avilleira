@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Mono&size=25&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=538&lines=Hello%20there!%20I'm%20Jaime%20Avilleira;Robotics%20Software%20Engineer;Welcome%20to%20my%20GitHub!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Mono&size=25&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=538&lines=Hello%20there!%20I'm%20Jaime%20Avilleira;Robotics%20Software%20Engineer%20🤖;Welcome%20to%20my%20GitHub!" alt="Typing SVG"/>
 </p>
 I am a Robotics Software Engineer specialized in developing intelligent robotic systems and distributed software architectures.
 
