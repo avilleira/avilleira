@@ -61,7 +61,7 @@ I am a Robotics Software Engineer specialized in developing intelligent robotic 
 
 ---
 
-## 🔬 Machine Learning & AI Stack
+## 🔬 AI Stack
 
 * PyTorch
 * TensorFlow
