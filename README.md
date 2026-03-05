@@ -82,7 +82,7 @@ I am a Robotics Software Engineer specialized in developing intelligent robotic 
 ---
 
 <p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=avilleira&show_icons=true&theme=dark"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=avilleira&show_icons=true&theme=dark&include_all_commits=true"/>
   <img src="https://streak-stats.demolab.com?user=avilleira&theme=dark"/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=avilleira&layout=compact&theme=dark"/>
 </p>
