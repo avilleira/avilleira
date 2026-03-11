@@ -5,7 +5,7 @@ I am a Robotics Software Engineer specialized in developing intelligent robotic 
 
 
 
-- 💼 I'm currently working at SENSIA Solutions as C++ Software Engineer
+- 💼 I'm currently working at SENSIA Solutions as C++ Software Engineer.
 - 🎓 I'm currently studying a MSc. Robotics and Artificial Intelligence at University of León.
 - 🤖 Passionate about robotics, AI, distributed systems, computer vision and data analysis.
 
